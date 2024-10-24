@@ -1,0 +1,18 @@
+- Bezeichnung für jede Vorlesung und Nummer(eindeutig)
+- Vorlesung haben genau einen Professor und min 1 Student
+- Professor kann mehrere Vorlesungen haben
+- Vorlesung in bestimmten Hörsaal
+- Jeder Professor hat einen eigenen Hörsaal
+- Es gibt Vorgänger Vorlesungen und Nachfolger (Stoff davon ist Grundlage)
+- Geburtsdatum vom Professor ist wichtig -> Geschenk
+- Studenten => Vorname, Nachname, Eintrittsdatum (Studienbeginn), Matrikelnummer (einmalig)
+- Assistenten arbeiten für genau einen Professor -> Professoren können mehrere Assistenten haben
+- Geburtsdatum Assistenten -> Geschenk
+- Studenten schliessen mit einem Test ab -> jede Vorlesung
+- Test an vorgegebenen Datum
+- Prüfung Aufsicht von genau einem Professor
+- Noten werden auf halbe Noten gerundet
+- Studenten können für eine Vorlesung mehrere Prüfungen schreiben -> Prüfung nicht bestanden
+- Vor- und Nachname von allen sind Pflicht
+- Wenn ein Student gelöscht wird (Verlassen der Uni) werden Prüfungstermine und Vorlesungen auch gelöscht
+- Zwei Professoren können nicht den selben Hörsaal haben.
